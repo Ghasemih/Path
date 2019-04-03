@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Ale/Downloads/google-maps-services-0.1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Ale/Downloads/okhttp-2.5.0 (1).jar"/>
+	<classpathentry kind="lib" path="/Users/Ale/Downloads/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Ale/Downloads/jar_files (1)/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Ale/Downloads/jar_files (1)/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Ale/Downloads/jar_files (1)/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Ale/Downloads/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
