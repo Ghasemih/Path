@@ -1,4 +1,0 @@
-Query:http://nominatim.openstreetmap.org/search?q=47+Princes+Highway&format=json&addressdetails=1
-obj=[{"osm_type":"way","osm_id":"100043964","licence":"Data © OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright","boundingbox":["50.4765457","50.481801","5.4066657","5.4132313"],"address":{"country":"België \/ Belgique \/ Belgien","country_code":"be","road":"Rue des Princes","county":"Huy","postcode":"4557","state":"Wallonie","village":"Tinlot"},"importance":0.125,"lon":"5.4092144","display_name":"Rue des Princes, Tinlot, Huy, Liège, Wallonie, 4557, België \/ Belgique \/ Belgien","type":"unclassified","class":"highway","place_id":"91405821","lat":"50.4793797"}]
-lon=5.4092144
-lat=50.4793797
