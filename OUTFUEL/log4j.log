@@ -1,0 +1,32 @@
+obj=[{"osm_type":"way","osm_id":"66233778","licence":"Data © OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright","boundingbox":["43.6463938","43.6464938","-79.42175115","-79.42165115"],"address":{"country":"Canada","country_code":"ca","road":"Argyle Street","city":"Toronto","neighbourhood":"Ossington","postcode":"M6J 2Z5","house_number":"93","state":"Ontario","city_district":"Old Toronto"},"importance":0.31025,"lon":"-79.42170115","display_name":"93, Argyle Street, Ossington, Old Toronto, Toronto, Ontario, M6J 2Z5, Canada","type":"house","class":"place","place_id":"1136081","lat":"43.6464438"}]
+lon=-79.42170115
+lat=43.6464438
+Query:http://nominatim.openstreetmap.org/search?q=93-99+Argyle+Street&format=json&addressdetails=1
+obj=[{"osm_type":"way","osm_id":"66233778","licence":"Data © OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright","boundingbox":["43.6463938","43.6464938","-79.42175115","-79.42165115"],"address":{"country":"Canada","country_code":"ca","road":"Argyle Street","city":"Toronto","neighbourhood":"Ossington","postcode":"M6J 2Z5","house_number":"93","state":"Ontario","city_district":"Old Toronto"},"importance":0.31025,"lon":"-79.42170115","display_name":"93, Argyle Street, Ossington, Old Toronto, Toronto, Ontario, M6J 2Z5, Canada","type":"house","class":"place","place_id":"1136081","lat":"43.6464438"}]
+lon=-79.42170115
+lat=43.6464438
+Query:http://nominatim.openstreetmap.org/search?q=436-438+The+Horsley+Dve&format=json&addressdetails=1
+obj=[]
+Query:http://nominatim.openstreetmap.org/search?q=436-438+The+Horsley+Dve&format=json&addressdetails=1
+obj=[]
+Query:http://nominatim.openstreetmap.org/search?q=835+King+Georges+Road&format=json&addressdetails=1
+obj=[]
+Query:http://nominatim.openstreetmap.org/search?q=835+King+Georges+Road&format=json&addressdetails=1
+obj=[]
+Query:http://nominatim.openstreetmap.org/search?q=162+Gipps+Rd&format=json&addressdetails=1
+obj=[]
+Query:http://nominatim.openstreetmap.org/search?q=162+Gipps+Rd&format=json&addressdetails=1
+obj=[]
+Query:http://nominatim.openstreetmap.org/search?q=49+Canterbury+Rd&format=json&addressdetails=1
+obj=[{"osm_type":"way","osm_id":"13942043","licence":"Data © OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright","boundingbox":["32.219661032502","32.219761032502","-89.960807630805","-89.960707630805"],"address":{"country":"United States of America","country_code":"us","road":"Canterbury","hamlet":"Sherwood Forest","county":"Rankin County","postcode":"39042","house_number":"49","state":"Mississippi"},"importance":0.22025,"lon":"-89.9607576308052","display_name":"49, Canterbury, Sherwood Forest, Rankin County, Mississippi, 39042, United States of America","type":"house","class":"place","place_id":"199681276","lat":"32.2197110325019"},{"osm_type":"way","osm_id":"212687499","licence":"Data © OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright","boundingbox":["-44.0739911","-44.0657318","171.0814644","171.0964095"],"address":{"country":"New Zealand\/Aotearoa","country_code":"nz","road":"The Den Road","city":"Timaru","county":"Timaru District","state":"Canterbury"},"importance":0.135,"lon":"171.088764","display_name":"The Den Road, Timaru, Timaru District, Canterbury, New Zealand\/Aotearoa","type":"track","class":"highway","place_id":"121001654","lat":"-44.0680953"}]
+lon=-89.9607576308052
+lat=32.2197110325019
+Query:http://nominatim.openstreetmap.org/search?q=49+Canterbury+Rd&format=json&addressdetails=1
+Query:http://nominatim.openstreetmap.org/search?q=272-278+Woodville+Road&format=json&addressdetails=1
+Query:http://nominatim.openstreetmap.org/search?q=534+Guildford+Road+West&format=json&addressdetails=1
+Query:http://nominatim.openstreetmap.org/search?q=534+Guildford+Road&format=json&addressdetails=1
+Query:http://nominatim.openstreetmap.org/search?q=269+Potts+Terrace&format=json&addressdetails=1
+Query:http://nominatim.openstreetmap.org/search?q=6520+Derry+Rd&format=json&addressdetails=1
+Query:http://nominatim.openstreetmap.org/search?q=269+Potts+Terrace&format=json&addressdetails=1
+Query:http://nominatim.openstreetmap.org/search?q=269+Potts+Terrace&format=json&addressdetails=1
+Query:http://nominatim.openstreetmap.org/search?q=269+Potts+Terrace&format=json&addressdetails=1
